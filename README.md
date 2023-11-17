@@ -1,10 +1,10 @@
 # :wave: &nbsp;Hello there! I'm Tiziano Citro
 
 <div id="header-container" align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250"/>
-  <h2 id="description" align="left">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" />
+  <h3 id="description" align="left">
     I’m an enthusiast who loves studying technologies, discussing them, and finding ways to integrate them into everyday workflow.
-  </h2>
+  </h3>
 </div>
 
 <div id="badges">
@@ -202,9 +202,9 @@ My main interests span **Cloud Computing**, **DevOps**, **GitOps**, and **Backen
   <tr>
     <td align="center" width="96"> 
       <a href="#tech-paragraph" >
-        <img src="./img/mongodb.svg" width="36" height="36" alt="Mongo DB" />
+        <img src="./img/mongodb.svg" width="36" height="36" alt="MongoDB" />
       </a>
-      <br>Mongo DB
+      <br>MongoDB
     </td>
     <td align="center" width="96"> 
       <a href="#tech-paragraph" >
