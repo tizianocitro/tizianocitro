@@ -150,15 +150,15 @@ My main interests span **Cloud Computing**, **DevOps**, **GitOps**, and **Backen
   <tr style="border: none;">
     <td align="center" width="96" style="border: none;">
       <a href="#tech-paragraph">
-        <img src="./img/nodejs.svg" width="36" height="36" alt="Node.js" />
+        <img src="./img/springio.svg" width="36" height="36" alt="Spring" />
       </a>
-      <br>Node.js
+      <br>Spring
     </td>
     <td align="center" width="96" style="border: none;">
       <a href="#tech-paragraph">
-        <img src="./img/springio.svg" width="36" height="36" alt="Spring Boot" />
+        <img src="./img/nodejs.svg" width="36" height="36" alt="Node.js" />
       </a>
-      <br>Spring Boot
+      <br>Node.js
     </td>
     <td align="center" width="96" style="border: none;">
       <a href="#tech-paragraph">
