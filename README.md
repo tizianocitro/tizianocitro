@@ -9,9 +9,6 @@
     <h2 id="description" align="left">
       I’m an enthusiast who loves studying technologies, discussing them, and finding ways to integrate them into everyday workflow.
     </h2>
-    <h4 id="interests" align="left">
-      My main interests span <b>Cloud Computing</b>, <b>DevOps</b>, <b>GitOps</b>, and <b>Backend Engineering</b>. I also find <b>Platform Engineering</b> and <b>Frontend Engineering</b> exciting and enjoyable.
-    </h4>
   </div>
 </div>
 
@@ -36,6 +33,8 @@
 </div>
 
 ## :man_technologist: &nbsp;About Me
+
+My main interests span **Cloud Computing**, **DevOps**, **GitOps**, and **Backend Engineering**. I also find **Platform Engineering** and **Frontend Engineering** exciting and enjoyable.
 
 - :office: &nbsp;I'm a PhD student at **Unverisità degli Studi di Salerno**.
 - :speech_balloon: &nbsp;I like to talk about **Cloud Computing**, **Kubernetes**, and **Docker**.
