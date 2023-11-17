@@ -1,17 +1,17 @@
 # :wave: &nbsp;Hello there! I'm Tiziano Citro
 
-<div id="header-container" style="display: flex; align-items: center; justify-content: center; flex-wrap: wrap;">
+<div id="header-container" align="center">
   <div id="header" style="margin-right: 20px;">
     <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" />
   </div>
 
   <div>
-    <h4 id="description" style="max-width: 500px; text-align: left; margin-top: 10px; border-bottom: 1px solid #ddd; box-shadow: 0 2px 0px rgba(0, 0, 0, 0.1); padding-bottom: 10px;">
+    <h2 id="description" align="left">
       I’m an enthusiast who loves studying technologies, discussing them, and finding ways to integrate them into everyday workflow.
-    </h4>
-    <p id="interests" style="max-width: 500px; text-align: left; margin-top: 10px;">
+    </h2>
+    <h4 id="interests" align="left">
       My main interests span <b>Cloud Computing</b>, <b>DevOps</b>, <b>GitOps</b>, and <b>Backend Engineering</b>. I also find <b>Platform Engineering</b> and <b>Frontend Engineering</b> exciting and enjoyable.
-    </p>
+    </h4>
   </div>
 </div>
 
@@ -44,7 +44,7 @@
 
 ## :computer: &nbsp;Technologies
 
-<p id="tech-paragraph" style="border-bottom: 1px solid #ddd; box-shadow: 0 2px 2px rgba(0, 0, 0, 0.1); padding: 10px; max-width: 100%; margin: 0 auto;">
+<p id="tech-paragraph">
   Tools, languages, and other things that I work with or like to use.
 </p>
 
