@@ -63,7 +63,9 @@
       <br>Azure
     </td>
   </tr>
+</table>
 
+<table id="tech-table" cellspacing="0" cellpadding="0" style="border: none;">
   <tr style="border: none;">
     <td align="center" width="96" style="border: none;"> 
       <a href="#tech-paragraph" >
@@ -102,7 +104,9 @@
       <br>Terraform
     </td>
   </tr>
+</table>
 
+<table id="tech-table" cellspacing="0" cellpadding="0" style="border: none;">
   <tr style="border: none;">
     <td align="center" width="96" style="border: none;">
       <a href="#tech-paragraph">
@@ -141,7 +145,9 @@
       <br>Bash
     </td>
   </tr>
+</table>
 
+<table id="tech-table" cellspacing="0" cellpadding="0" style="border: none;">
   <tr style="border: none;">
     <td align="center" width="96" style="border: none;">
       <a href="#tech-paragraph">
@@ -168,7 +174,9 @@
       <br>Next.js
     </td>
   </tr>
+</table>
 
+<table id="tech-table" cellspacing="0" cellpadding="0" style="border: none;">
   <tr style="border: none;">
     <td align="center" width="96" style="border: none;">
       <a href="#tech-paragraph">
@@ -195,7 +203,9 @@
       <br>RabbitMQ
     </td>
   </tr>
+</table>
 
+<table id="tech-table" cellspacing="0" cellpadding="0" style="border: none;">
   <tr style="border: none;">
     <td align="center" width="96" style="border: none;"> 
       <a href="#tech-paragraph" >
