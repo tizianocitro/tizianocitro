@@ -1,87 +1,35 @@
-<style>
-  #header-container {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    flex-wrap: wrap;
-  }
-
-  #header {
-    margin-right: 20px;
-  }
-
-  #description,
-  #interests {
-    max-width: 500px;
-    text-align: left;
-    margin-top: 10px;
-  }
-
-  #description {
-    border-bottom: 1px solid #ddd;
-    box-shadow: 0 2px 0px rgba(0, 0, 0, 0.1);
-    padding-bottom: 10px;
-  }
-
-  #badges {
-    display: flex;
-    justify-content: space-between;
-    margin: 10px
-  }
-
-  #badges span {
-    display: flex;
-  }
-
-  #badges span a {
-    margin-right: 5px;
-  }
-
-  #stats {
-    align-items: center;
-  }
-
-  #tech-paragraph {
-    border-bottom: 1px solid #ddd;
-    box-shadow: 0 2px 2px rgba(0, 0, 0, 0.1);
-    padding: 10px;
-    max-width: 100%;
-    margin: 0 auto;
-  }
-</style>
-
 # :wave: &nbsp;Hello there! I'm Tiziano Citro
 
-<div id="header-container">
-  <div id="header">
+<div id="header-container" style="display: flex; align-items: center; justify-content: center; flex-wrap: wrap;">
+  <div id="header" style="margin-right: 20px;">
     <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" />
   </div>
 
   <div>
-    <h4 id="description">
+    <h4 id="description" style="max-width: 500px; text-align: left; margin-top: 10px; border-bottom: 1px solid #ddd; box-shadow: 0 2px 0px rgba(0, 0, 0, 0.1); padding-bottom: 10px;">
       I’m an enthusiast who loves studying technologies, discussing them, and finding ways to integrate them into everyday workflow.
     </h4>
-    <p id="interests">
+    <p id="interests" style="max-width: 500px; text-align: left; margin-top: 10px;">
       My main interests span <b>Cloud Computing</b>, <b>DevOps</b>, <b>GitOps</b>, and <b>Backend Engineering</b>. I also find <b>Platform Engineering</b> and <b>Frontend Engineering</b> exciting and enjoyable.
     </p>
   </div>
 </div>
 
-<div id="badges">
-  <span align="left">
-    <a href="https://www.linkedin.com/in/tizianocitro">
+<div id="badges" style="display: flex; justify-content: space-between; margin: 10px">
+  <span align="left" style="display: flex;">
+    <a href="https://www.linkedin.com/in/tizianocitro" style="margin-right: 5px;">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="https://twitter.com/tizianocitro29">
+    <a href="https://twitter.com/tizianocitro29" style="margin-right: 5px;">
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
   </span>
 
-  <span id="stats" align="left">
-    <a href="https://github.com/tizianocitro/tizianocitro">
+  <span id="stats" align="left" style="display: flex; align-items: center;">
+    <a href="https://github.com/tizianocitro/tizianocitro" style="margin-right: 5px;">
       <img src="https://komarev.com/ghpvc/?username=tizianocitro" alt="page views" />
     </a>
-    <a href="https://github.com/tizianocitro?tab=followers">
+    <a href="https://github.com/tizianocitro?tab=followers" style="margin-right: 5px;">
       <img alt="GitHub followers" src="https://img.shields.io/github/followers/tizianocitro?color=green&logo=github">
     </a>
   </span>
@@ -96,7 +44,7 @@
 
 ## :computer: &nbsp;Technologies
 
-<p id="tech-paragraph">
+<p id="tech-paragraph" style="border-bottom: 1px solid #ddd; box-shadow: 0 2px 2px rgba(0, 0, 0, 0.1); padding: 10px; max-width: 100%; margin: 0 auto;">
   Tools, languages, and other things that I work with or like to use.
 </p>
 
