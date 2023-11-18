@@ -1,7 +1,8 @@
 # :wave: &nbsp;Hello there! I'm Tiziano Citro
 
 <div id="header-container" align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" />
+  <!-- Commented image to reduce vertical space -->
+  <!-- <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" /> -->
   <h3 id="description" align="left">
     I’m an enthusiast who loves studying technologies, discussing them, and finding ways to integrate them into everyday workflow.
   </h3>
