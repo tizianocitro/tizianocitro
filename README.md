@@ -4,7 +4,7 @@
   <!-- Commented image to reduce vertical space -->
   <!-- <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" /> -->
   <h3 id="description" align="left">
-    I’m an enthusiast who loves studying technologies, discussing them, and finding ways to integrate them into everyday workflow.
+    I am a passionate technology enthusiast interested in studying emerging technologies, engaging in insightful discussions about their impact, and seamlessly integrating them into everyday workflows.
   </h3>
 </div>
 
