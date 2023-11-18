@@ -3,9 +3,9 @@
 <div id="header-container" align="center">
   <!-- Commented image to reduce vertical space -->
   <!-- <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" /> -->
-  <h3 id="description" align="left">
-    I am a passionate technology enthusiast interested in studying emerging technologies, engaging in insightful discussions about their impact, and seamlessly integrating them into everyday workflows.
-  </h3>
+  <h4 id="description" align="left">
+    I am a passionate technology enthusiast interested in studying technologies, engaging in insightful discussions about their impact, and seamlessly integrating them into everyday workflows.
+  </h4>
 </div>
 
 <div id="badges">
