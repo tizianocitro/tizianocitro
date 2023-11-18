@@ -105,7 +105,7 @@ My main interests span **Cloud Computing**, **DevOps**, **GitOps**, and **Backen
       <a href="#tech-paragraph">
         <img src="./img/go.svg" width="36" height="36" alt="Golang" />
       </a>
-      <br>Go
+      <br>Golang
     </td>
     <td align="center" width="96">
       <a href="#tech-paragraph">
