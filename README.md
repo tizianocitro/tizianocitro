@@ -9,23 +9,23 @@
 </div>
 
 <div id="badges">
-  <span align="left">
+  <div align="center">
     <a href="https://www.linkedin.com/in/tizianocitro" style="margin-right: 5px;">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="https://twitter.com/tizianocitro29" style="margin-right: 5px;">
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
-  </span>
+  </div>
 
-  <span id="stats" align="left">
+  <div id="stats" align="center">
     <a href="https://github.com/tizianocitro/tizianocitro" style="margin-right: 5px;">
       <img src="https://komarev.com/ghpvc/?username=tizianocitro" alt="page views" />
     </a>
     <a href="https://github.com/tizianocitro?tab=followers" style="margin-right: 5px;">
       <img alt="GitHub followers" src="https://img.shields.io/github/followers/tizianocitro?color=green&logo=github">
     </a>
-  </span>
+  </div>
 </div>
 
 ## :man_technologist: &nbsp;About Me
