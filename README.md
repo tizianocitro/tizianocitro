@@ -18,7 +18,7 @@
     </a>
   </span>
 
-  <span id="stats" align="right" style="right: 0">
+  <span id="stats" align="right">
     <a href="https://github.com/tizianocitro/tizianocitro" style="margin-right: 5px;">
       <img src="https://komarev.com/ghpvc/?username=tizianocitro" alt="page views" />
     </a>
