@@ -9,7 +9,7 @@
 </div>
 
 <div id="badges">
-  <div align="center">
+  <div align="left">
     <a href="https://www.linkedin.com/in/tizianocitro" style="margin-right: 5px;">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
@@ -18,7 +18,7 @@
     </a>
   </div>
 
-  <div id="stats" align="center">
+  <div id="stats" align="right" style="right: 0">
     <a href="https://github.com/tizianocitro/tizianocitro" style="margin-right: 5px;">
       <img src="https://komarev.com/ghpvc/?username=tizianocitro" alt="page views" />
     </a>
