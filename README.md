@@ -1,12 +1,15 @@
 # :wave: &nbsp;Hello there! I'm Tiziano Citro
 
-<div id="header-container" align="center">
-  <!-- Commented image to reduce vertical space -->
-  <!-- <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" /> -->
-  <h4 id="description" align="left">
-    I'm a passionate technology enthusiast interested in studying technologies, engaging in discussions about them, and integrating them into everyday workflows.
-  </h4>
+I'm a passionate technology enthusiast interested in studying technologies, engaging in discussions about them, and integrating them into everyday workflows.
+
+<!--
+  <div id="header-container" align="center">
+    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" />
+    <h3 id="description" align="left">
+      I'm a passionate technology enthusiast interested in studying technologies, engaging in discussions about them, and integrating them into everyday workflows.
+    </h3>
 </div>
+-->
 
 <div id="badges">
   <span align="left">
