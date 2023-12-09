@@ -46,196 +46,140 @@ My main interests span **Cloud Computing**, **DevOps**, **GitOps**, and **Backen
   Tools, languages, and other things that I work with or like to use.
 </p>
 
-<table id="tech-table" cellspacing="0" cellpadding="0">
-    <td align="center" width="96">
-      <a href="#tech-paragraph">
-        <img src="./img/aws.svg" width="36" height="36" alt="AWS" />
-      </a>
-      <br>AWS
-    </td>
-    <td align="center" width="96">
-      <a href="#tech-paragraph">
-        <img src="./img/azure.svg" width="36" height="36" alt="Azure" />
-      </a>
-      <br>Azure
-    </td>
-  </tr>
-</table>
+<div>
+    <img
+      src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"
+      alt="AWS"
+    />
+    <img
+      src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white"
+      alt="Azure"
+    />
+</div>
 
-<table id="tech-table" cellspacing="0" cellpadding="0">
-  <tr>
-    <td align="center" width="96"> 
-      <a href="#tech-paragraph" >
-        <img src="./img/docker.svg" width="36" height="36" alt="Docker" />
-      </a>
-      <br>Docker
-    </td>
-    <td align="center" width="96">
-      <a href="#tech-paragraph">
-        <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg" width="36" height="36" alt="Kubernetes" />
-      </a>
-      <br>Kubernetes
-    </td>
-    <td align="center" width="96">
-      <a href="#tech-paragraph" >
-        <img src="./img/helm.svg" width="36" height="36" alt="Helm" />
-      </a>
-      <br>Helm
-    </td>
-    <td align="center" width="96">
-      <a href="#tech-paragraph" >
-        <img src="./img/rancher.svg" width="36" height="36" alt="Rancher" />
-      </a>
-      <br>Rancher
-    </td>
-    <td align="center" width="96">
-      <a href="#tech-paragraph" >
-        <img src="./img/harbor.svg" width="36" height="36" alt="Harbor" />
-      </a>
-      <br>Harbor
-    </td>
-    <td align="center" width="96">
-      <a href="#tech-paragraph" >
-        <img src="./img/terraform.svg" width="36" height="36" alt="Terraform" />
-      </a>
-      <br>Terraform
-    </td>
-  </tr>
-</table>
+<div>
+    <img
+      src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"
+      alt="Docker"
+    />
+    <img
+      src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white"
+      alt="Kubernetes"
+    />
+    <img
+      src="https://img.shields.io/badge/helm-4B3263.svg?style=for-the-badge&logo=helm&logoColor=white"
+      alt="Helm"
+    />
+    <img
+      src="https://img.shields.io/badge/rancher-%230075A8.svg?style=for-the-badge&logo=rancher&logoColor=white"
+      alt="Rancher"
+    />
+    <img
+      src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white"
+      alt="GitHub Actions"
+    />
+    <img
+      src="https://img.shields.io/badge/harbor-%231A1918.svg?style=for-the-badge&logo=harbor&logoColor=white"
+      alt="Harbor"
+    />
+    <img
+      src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white"
+      alt="Terraform"
+    />
+</div>
 
-<table id="tech-table" cellspacing="0" cellpadding="0">
-  <tr>
-    <td align="center" width="96">
-      <a href="#tech-paragraph">
-        <img src="./img/go.svg" width="36" height="36" alt="Golang" />
-      </a>
-      <br>Golang
-    </td>
-    <td align="center" width="96">
-      <a href="#tech-paragraph">
-        <img src="./img/typescript.svg" width="36" height="36" alt="TypeScript" />
-      </a>
-      <br>TypeScript
-    </td>
-    <td align="center" width="96">
-      <a href="#tech-paragraph">
-        <img src="./img/javascript.svg" width="36" height="36" alt="JavaScript" />
-      </a>
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <a href="#tech-paragraph">
-        <img src="./img/java.svg" width="36" height="36" alt="Java" />
-      </a>
-      <br>Java
-    </td>
-    <td align="center" width="96">
-      <a href="#tech-paragraph">
-        <img src="./img/python.svg" width="36" height="36" alt="Python" />
-      </a>
-      <br>Python
-    </td>
-    <td align="center" width="96">
-      <a href="#tech-paragraph">
-        <img src="./img/bash.svg" width="36" height="36" alt="Bash" />
-      </a>
-      <br>Bash
-    </td>
-  </tr>
-</table>
+<div>
+    <img
+      src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"
+      alt="Golang"
+    />
+    <img
+      src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"
+      alt="Java"
+    />
+    <img
+      src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"
+      alt="TypeScript"
+    />
+    <img
+      src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"
+      alt="JavaScript"
+    />
+    <img
+      src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"
+      alt="Python"
+    />
+    <img
+      src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"
+      alt="Shell Script"
+    />
+</div>
 
-<table id="tech-table" cellspacing="0" cellpadding="0">
-  <tr>
-    <td align="center" width="96">
-      <a href="#tech-paragraph">
-        <img src="./img/springio.svg" width="36" height="36" alt="Spring" />
-      </a>
-      <br>Spring
-    </td>
-    <td align="center" width="96">
-      <a href="#tech-paragraph">
-        <img src="./img/nodejs.svg" width="36" height="36" alt="Node.js" />
-      </a>
-      <br>Node.js
-    </td>
-    <td align="center" width="96">
-      <a href="#tech-paragraph">
-        <img src="./img/react.svg" width="36" height="36" alt="React.js" />
-      </a>
-      <br>React.js
-    </td>
-    <td align="center" width="96">
-      <a href="#tech-paragraph">
-        <img src="./img/next.svg" width="36" height="36" alt="Next.js" />
-      </a>
-      <br>Next.js
-    </td>
-  </tr>
-</table>
+<div>
+    <img
+      src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"
+      alt="Spring"
+    />
+    <img
+      src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"
+      alt="NodeJS"
+    />
+    <img
+      src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"
+      alt="Express.js"
+    />
+    <img
+      src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"
+      alt="React"
+    />
+    <img
+      src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"
+      alt="NextJS"
+    />
+</div>
 
-<table id="tech-table" cellspacing="0" cellpadding="0">
-  <tr>
-    <td align="center" width="96">
-      <a href="#tech-paragraph">
-        <img src="./img/linux.svg" width="36" height="36" alt="Linux" />
-      </a>
-      <br>Linux
-    </td>
-    <td align="center" width="96">
-      <a href="#tech-paragraph">
-        <img src="./img/redis.svg" width="36" height="36" alt="Redis" />
-      </a>
-      <br>Redis
-    </td>
-    <td align="center" width="96">
-      <a href="#tech-paragraph">
-        <img src="./img/kafka.svg" width="36" height="36" alt="Apache Kafka" />
-      </a>
-      <br>Kafka
-    </td>
-    <td align="center" width="96">
-      <a href="#tech-paragraph">
-        <img src="./img/rabbitmq.svg" width="36" height="36" alt="Apache Kafka" />
-      </a>
-      <br>RabbitMQ
-    </td>
-  </tr>
-</table>
+<div>
+    <img
+      src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"
+      alt="Linux"
+    />
+    <img
+      src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white"
+      alt="Redis"
+    />
+    <img
+      src="https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka"
+      alt="Apache Kafka"
+    />
+    <img
+      src="https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"
+      alt="RabbitMQ"
+    />
+    <img
+      src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white"
+      alt="Nginx"
+    />
+</div>
 
-<table id="tech-table" cellspacing="0" cellpadding="0">
-  <tr>
-    <td align="center" width="96"> 
-      <a href="#tech-paragraph" >
-        <img src="./img/mongodb.svg" width="36" height="36" alt="MongoDB" />
-      </a>
-      <br>MongoDB
-    </td>
-    <td align="center" width="96"> 
-      <a href="#tech-paragraph" >
-        <img src="./img/sql.svg" width="36" height="36" alt="SQL" />
-      </a>
-      <br>SQL
-    </td>
-    <td align="center" width="96"> 
-      <a href="#tech-paragraph" >
-        <img src="./img/mysql.svg" width="36" height="36" alt="MySQL" />
-      </a>
-      <br>MySQL
-    </td>
-    <td align="center" width="96"> 
-      <a href="#tech-paragraph" >
-        <img src="./img/postgresql.svg" width="36" height="36" alt="PostgreSQL" />
-      </a>
-      <br>PostgreSQL
-    </td>
-    <td align="center" width="96"> 
-      <a href="#tech-paragraph" >
-        <img src="./img/oracledb.svg" width="36" height="36" alt="Oracle DB" />
-      </a>
-      <br>Oracle DB
-    </td>
-  </tr>
-</table>
+
+<div>
+    <img
+      src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"
+      alt="MongoDB"
+    />
+    <img
+      src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"
+      alt="MySQL"
+    />
+    <img
+      src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"
+      alt="Postgres"
+    />
+    <img
+      src="https://img.shields.io/badge/Oracle DB-F80000?style=for-the-badge&logo=oracle&logoColor=white"
+      alt="Oracle DB"
+    />
+</div>
 
 <!-- links -->
 
