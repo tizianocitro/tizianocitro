@@ -37,14 +37,12 @@ My main interests span **Cloud Computing**, **DevOps**, **GitOps**, and **Backen
 
 - :office: &nbsp;I'm a PhD student at **Unverisità degli Studi di Salerno**.
 - :speech_balloon: &nbsp;I like to talk about **Cloud Computing**, **Kubernetes**, and **Docker**.
-- :notebook_with_decorative_cover: &nbsp;I’m studying for the **Microsoft Certified: Azure Developer Associate** and the **Certified Kubernetes Application Developer (CKAD)** certifications.
+- :notebook_with_decorative_cover: &nbsp;I’m studying for the **AWS Certified Developer Associate** and the **Certified Kubernetes Application Developer (CKAD)** certifications.
 - :envelope: &nbsp;Connect with me on **[LinkedIn]** or **[Twitter]**.
 
 ## :computer: &nbsp;Technologies
 
-<p id="tech-paragraph">
-  Tools, languages, and other things that I work with or like to use.
-</p>
+Tools, languages, and other things that I work with or like to use.
 
 <div>
     <img
@@ -160,7 +158,6 @@ My main interests span **Cloud Computing**, **DevOps**, **GitOps**, and **Backen
       alt="Nginx"
     />
 </div>
-
 
 <div>
     <img
