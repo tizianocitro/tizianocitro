@@ -44,7 +44,7 @@ My main interests span **Cloud Computing**, **DevOps**, **GitOps**, and **Backen
 
 Tools, languages, and other things that I work with or like to use.
 
-<div>
+<div align="center">
     <img
       src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"
       alt="AWS"
@@ -55,7 +55,7 @@ Tools, languages, and other things that I work with or like to use.
     />
 </div>
 
-<div>
+<div align="center">
     <img
       src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"
       alt="Docker"
@@ -86,7 +86,7 @@ Tools, languages, and other things that I work with or like to use.
     />
 </div>
 
-<div>
+<div align="center">
     <img
       src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"
       alt="Golang"
@@ -113,7 +113,7 @@ Tools, languages, and other things that I work with or like to use.
     />
 </div>
 
-<div>
+<div align="center">
     <img
       src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"
       alt="Spring"
@@ -136,7 +136,7 @@ Tools, languages, and other things that I work with or like to use.
     />
 </div>
 
-<div>
+<div align="center">
     <img
       src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"
       alt="Linux"
@@ -159,7 +159,7 @@ Tools, languages, and other things that I work with or like to use.
     />
 </div>
 
-<div>
+<div align="center">
     <img
       src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"
       alt="MongoDB"
