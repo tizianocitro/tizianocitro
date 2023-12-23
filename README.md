@@ -35,7 +35,7 @@ I'm a passionate technology enthusiast interested in studying technologies, enga
 
 My main interests span **Cloud Computing**, **DevOps**, **GitOps**, and **Backend Engineering**. I also find **Platform Engineering** and **Frontend Engineering** exciting and enjoyable.
 
-- :office: &nbsp;I'm a PhD student at **Unverisità degli Studi di Salerno**.
+- :office: &nbsp;I'm a PhD student at **Università degli Studi di Salerno**.
 - :speech_balloon: &nbsp;I like to talk about **Cloud Computing**, **Kubernetes**, and **Docker**.
 - :notebook_with_decorative_cover: &nbsp;I’m studying for the **AWS Certified Developer Associate** and the **Certified Kubernetes Application Developer (CKAD)** certifications.
 - :envelope: &nbsp;Connect with me on **[LinkedIn]** or **[Twitter]**.
