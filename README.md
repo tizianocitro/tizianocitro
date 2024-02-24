@@ -16,9 +16,11 @@ I'm a passionate technology enthusiast interested in studying technologies, enga
     <a href="https://www.linkedin.com/in/tizianocitro" style="margin-right: 5px;">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
+    <!--
     <a href="https://twitter.com/tizianocitro29" style="margin-right: 5px;">
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
+    -->
   </span>
 
   <span id="stats" align="right">
