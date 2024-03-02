@@ -169,7 +169,7 @@ Tools, languages, and other things that I work with or like to use.
       alt="MongoDB"
     />
     <img
-      src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"
+      src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white"
       alt="MySQL"
     />
     <img
@@ -179,6 +179,10 @@ Tools, languages, and other things that I work with or like to use.
     <img
       src="https://img.shields.io/badge/Oracle DB-F80000?style=for-the-badge&logo=oracle&logoColor=white"
       alt="Oracle DB"
+    />
+    <img
+      src="https://img.shields.io/badge/MinIO-C72E49.svg?style=for-the-badge&logo=MinIO&logoColor=white"
+      alt="MinIO"
     />
 </div>
 
