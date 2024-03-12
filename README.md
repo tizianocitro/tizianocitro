@@ -35,10 +35,10 @@ I'm a passionate technology enthusiast interested in studying technologies, enga
 
 ## :man_technologist: &nbsp;About Me
 
-My main interests span **Cloud Computing**, **DevOps**, **GitOps**, and **Backend Engineering**. I also find **Platform Engineering** and **Frontend Engineering** exciting and enjoyable.
+My main interests span **Cloud Computing**, **Cybersecurity**, **DevOps**, **GitOps**, and **Backend Engineering**. I also find **Platform Engineering** and **Frontend Engineering** exciting and enjoyable.
 
 - :office: &nbsp;I'm a PhD student at **Università degli Studi di Salerno**.
-- :speech_balloon: &nbsp;I like to talk about **Cloud Computing**, **Kubernetes**, and **Docker**.
+- :speech_balloon: &nbsp;I like to talk about **Cloud Computing**, **Cybersecurity**, **Kubernetes**, **Docker**, and **Go**.
 - :notebook_with_decorative_cover: &nbsp;I’m studying for the **AWS Certified Developer Associate** and the **Certified Kubernetes Application Developer (CKAD)** certifications.
 - :envelope: &nbsp;Connect with me on **[LinkedIn]**.
 
