@@ -82,10 +82,12 @@ Tools, languages, and other things that I work with or like to use.
       src="https://img.shields.io/badge/harbor-%231A1918.svg?style=for-the-badge&logo=harbor&logoColor=white"
       alt="Harbor"
     />
+    <!--
     <img
       src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white"
       alt="Terraform"
     />
+    -->
 </div>
 
 <div align="center">
