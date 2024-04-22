@@ -40,7 +40,7 @@ My main interests span **Cloud Computing**, **Distributed Systems**, **DevOps**,
 - :office: &nbsp;I'm a **Software Engineer** and a **PhD student** at **Università degli Studi di Salerno**.
 - :speech_balloon: &nbsp;I like to talk about **Cloud Computing**, **Distributed Systems**, **Cybersecurity**, **Kubernetes**, **Docker**, and **Go**.
 - :point_right: &nbsp;I'm currently learning about **AI** and **Graph Neural Networks**.
-- :notebook_with_decorative_cover: &nbsp;I’m studying for the **AWS Certified Developer Associate** and the **Certified Kubernetes Application Developer (CKAD)** certifications.
+- :notebook_with_decorative_cover: &nbsp;I’m studying for the **AWS Certified Developer Associate** certification.
 - :envelope: &nbsp;Connect with me on **[LinkedIn]**.
 
 ## :computer: &nbsp;Technologies
