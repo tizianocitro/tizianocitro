@@ -141,6 +141,10 @@ Tools, languages, and other things that I work with or like to use.
       src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"
       alt="NextJS"
     />
+    <img
+      src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white"
+      alt="PyTorch"
+    />
 </div>
 
 <div align="center">
@@ -172,12 +176,12 @@ Tools, languages, and other things that I work with or like to use.
       alt="MongoDB"
     />
     <img
-      src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white"
-      alt="MySQL"
-    />
-    <img
       src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"
       alt="Postgres"
+    />
+    <img
+      src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white"
+      alt="MySQL"
     />
     <img
       src="https://img.shields.io/badge/Oracle DB-F80000?style=for-the-badge&logo=oracle&logoColor=white"
