@@ -11,11 +11,16 @@ I'm a passionate technology enthusiast interested in studying technologies, enga
 </div>
 -->
 
+<a href="https://streak-stats.demolab.com/?user=tizianocitro&theme=rising-sun&hide_border=true&border_radius=5&card_width=800"><img src="https://streak-stats.demolab.com/?user=tizianocitro&theme=rising-sun&hide_border=true&border_radius=5&card_width=800" alt="GitHub Streak" /></a>
+
 <div id="badges">
   <span align="left">
     <a href="https://www.linkedin.com/in/tizianocitro" style="margin-right: 5px;">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
+    <!-- <a href="#" style="margin-right: 5px;">
+      <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar Badge"/>
+    </a> -->
     <!--
     <a href="https://twitter.com/tizianocitro29" style="margin-right: 5px;">
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
@@ -25,10 +30,10 @@ I'm a passionate technology enthusiast interested in studying technologies, enga
 
   <span id="stats" align="right">
     <a href="https://github.com/tizianocitro/tizianocitro" style="margin-right: 5px;">
-      <img src="https://komarev.com/ghpvc/?username=tizianocitro" alt="page views" />
+      <img src="https://komarev.com/ghpvc/?username=tizianocitro&style=for-the-badge&color=E38445&logo=github" alt="page views" />
     </a>
     <a href="https://github.com/tizianocitro?tab=followers" style="margin-right: 5px;">
-      <img alt="GitHub followers" src="https://img.shields.io/github/followers/tizianocitro?color=green&logo=github">
+      <img alt="GitHub followers" src="https://img.shields.io/github/followers/tizianocitro?style=for-the-badge&color=E38445">
     </a>
   </span>
 </div>
