@@ -38,7 +38,7 @@ I'm a passionate technology enthusiast interested in studying technologies, enga
 My main interests span **Cloud Computing**, **Distributed Systems**, **DevOps**, and **Backend Engineering**. I also find **Cybersecurity** and **Frontend Engineering** exciting and enjoyable.
 
 - :office: &nbsp;I'm a **Software Engineer** and a **PhD student** at **Università degli Studi di Salerno**.
-- :speech_balloon: &nbsp;I like to talk about **Cloud Computing**, **Distributed Systems**, **Cybersecurity**, **Kubernetes**, **Docker**, and **Go**.
+- :speech_balloon: &nbsp;I like to talk about **Cloud Computing**, **Distributed Systems**, **AI**, **Cybersecurity**, **Go**, **Docker**, and **Kubernetes**.
 - :point_right: &nbsp;I'm currently learning about **AI**, **Large Language Models**, and **Neural Networks**, such as **Graph Neural Networks** and **Transformers**.
 - :notebook_with_decorative_cover: &nbsp;I’m studying for the **AWS Certified Developer Associate** certification.
 - :envelope: &nbsp;Connect with me on **[LinkedIn]**.
