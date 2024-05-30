@@ -11,6 +11,10 @@ I'm a passionate technology enthusiast interested in studying technologies, enga
 </div>
 -->
 
+<a href="https://streak-stats.demolab.com/?user=tizianocitro&theme=rising-sun&hide_border=true&border_radius=5&card_width=800" target="_blank">
+  <img src="https://streak-stats.demolab.com/?user=tizianocitro&theme=rising-sun&hide_border=true&border_radius=5&card_width=800" alt="GitHub Streak"/>
+</a>
+
 <div id="badges">
   <span align="left">
     <a href="https://www.linkedin.com/in/tizianocitro" style="margin-right: 5px;">
