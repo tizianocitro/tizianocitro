@@ -74,10 +74,12 @@ Tools, languages, and other things that I work with or like to use.
       src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white"
       alt="Kubernetes"
     />
+    <!--
     <img
       src="https://img.shields.io/badge/helm-4B3263.svg?style=for-the-badge&logo=helm&logoColor=white"
       alt="Helm"
     />
+    -->
     <img
       src="https://img.shields.io/badge/rancher-%230075A8.svg?style=for-the-badge&logo=rancher&logoColor=white"
       alt="Rancher"
