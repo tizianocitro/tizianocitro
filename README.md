@@ -56,7 +56,7 @@ Tools, languages, and other things that I work with or like to use.
 
 <div align="center">
     <img
-      src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"
+      src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon&logoColor=white"
       alt="AWS"
     />
     <img
