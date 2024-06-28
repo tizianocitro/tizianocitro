@@ -11,6 +11,8 @@ I'm a passionate technology enthusiast interested in studying technologies, enga
 </div>
 -->
 
+I follow a rule of making at least **one commit per day** because it helps me maintain consistency and ensures I do something, no matter how small, every day.
+
 <a href="https://streak-stats.demolab.com/?user=tizianocitro&theme=rising-sun&hide_border=true&border_radius=5&card_width=800" target="_blank">
   <img src="https://streak-stats.demolab.com/?user=tizianocitro&theme=rising-sun&hide_border=true&border_radius=5&card_width=800" alt="GitHub Streak"/>
 </a>
