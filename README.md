@@ -58,12 +58,68 @@ Tools, languages, and other things that I work with or like to use.
 
 <div align="center">
     <img
-      src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=aws&logoColor=white"
-      alt="AWS"
+      src="https://img.shields.io/badge/Microsoft Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white"
+      alt="Microsoft Azure"
     />
     <img
-      src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white"
-      alt="Azure"
+      src="https://img.shields.io/badge/Amazon Web Services-%23FF9900.svg?style=for-the-badge&logo=aws&logoColor=white"
+      alt="Amazon Web Services"
+    />
+</div>
+
+<div align="center">
+    <img
+      src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"
+      alt="Python"
+    />
+    <img
+      src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"
+      alt="Golang"
+    />
+    <img
+      src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"
+      alt="Java"
+    />
+    <img
+      src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"
+      alt="TypeScript"
+    />
+    <img
+      src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"
+      alt="JavaScript"
+    />
+    <img
+      src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"
+      alt="Shell Script"
+    />
+</div>
+
+<div align="center">
+    <img
+      src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white"
+      alt="PyTorch"
+    />
+    <img
+      src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"
+      alt="Spring"
+    />
+    <img
+      src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"
+      alt="NodeJS"
+    />
+    <!--
+    <img
+      src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"
+      alt="Express.js"
+    />
+    -->
+    <img
+      src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"
+      alt="React"
+    />
+    <img
+      src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"
+      alt="NextJS"
     />
 </div>
 
@@ -100,62 +156,6 @@ Tools, languages, and other things that I work with or like to use.
       alt="Terraform"
     />
     -->
-</div>
-
-<div align="center">
-    <img
-      src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"
-      alt="Golang"
-    />
-    <img
-      src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"
-      alt="Java"
-    />
-    <img
-      src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"
-      alt="TypeScript"
-    />
-    <img
-      src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"
-      alt="JavaScript"
-    />
-    <img
-      src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"
-      alt="Python"
-    />
-    <img
-      src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"
-      alt="Shell Script"
-    />
-</div>
-
-<div align="center">
-    <img
-      src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"
-      alt="Spring"
-    />
-    <img
-      src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"
-      alt="NodeJS"
-    />
-    <!--
-    <img
-      src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"
-      alt="Express.js"
-    />
-    -->
-    <img
-      src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"
-      alt="React"
-    />
-    <img
-      src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"
-      alt="NextJS"
-    />
-    <img
-      src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white"
-      alt="PyTorch"
-    />
 </div>
 
 <div align="center">
