@@ -100,6 +100,10 @@ Tools, languages, and other things that I work with or like to use.
       alt="PyTorch"
     />
     <img
+      src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"
+      alt="scikit-learn"
+    />
+    <img
       src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"
       alt="Spring"
     />
