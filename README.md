@@ -36,20 +36,20 @@ I follow a rule of making at least **one commit per day** because it helps me ma
     <a href="https://github.com/tizianocitro/tizianocitro" style="margin-right: 5px;">
       <img src="https://komarev.com/ghpvc/?username=tizianocitro&style=for-the-badge&color=E38445&logo=github" alt="page views" />
     </a>
-    <a href="https://github.com/tizianocitro?tab=followers" style="margin-right: 5px;">
+    <!-- <a href="https://github.com/tizianocitro?tab=followers" style="margin-right: 5px;">
       <img alt="GitHub followers" src="https://img.shields.io/github/followers/tizianocitro?style=for-the-badge&color=E38445">
-    </a>
+    </a> -->
   </span>
 </div>
 
 ## :man_technologist: &nbsp;About Me
 
-My main interests span **Cloud Computing**, **Distributed Systems**, **DevOps**, and **Backend Engineering**. I also find **Cybersecurity** and **Frontend Engineering** exciting and enjoyable.
+My main interests span **AI** (**Large Language Models** and **Neural Networks**), **Cloud Computing**, **Distributed Systems**, and **Backend Engineering**. I also find **DevOps** and **Frontend Engineering** exciting and enjoyable.
 
 - :office: &nbsp;I'm a **Software Engineer** and a **PhD student** at **Università degli Studi di Salerno**.
-- :speech_balloon: &nbsp;I like to talk about **Cloud Computing**, **Distributed Systems**, **AI**, **Cybersecurity**, **Go**, **Docker**, and **Kubernetes**.
-- :point_right: &nbsp;I'm currently learning about **AI**, **Large Language Models**, and **Neural Networks**, such as **Graph Neural Networks** and **Transformers**.
+- :point_right: &nbsp;My research focuses on **Large Language Models** and **Deep Learning** (e.g., Transformers, Graph/Hypergraph Neural Networks, and Generative Adversarial Networks) and their **application in enhancing Online Collaboration**.
 - :notebook_with_decorative_cover: &nbsp;I’m studying for the **AWS Certified Developer Associate** certification.
+- :speech_balloon: &nbsp;I like to talk about **Large Language Models**, **Cloud Computing**, **Distributed Systems**, **Go**, **Java**, **Docker**, and **Kubernetes**.
 - :envelope: &nbsp;Connect with me on **[LinkedIn]**.
 
 ## :computer: &nbsp;Technologies
