@@ -11,20 +11,20 @@ I'm a passionate technology enthusiast interested in studying technologies, enga
 </div>
 -->
 
-I follow a rule of making at least **one commit per day** because it helps me maintain consistency and ensures I do something, no matter how small, every day.
+I follow the rule of making at least **one commit per day** because it helps me maintain consistency and ensures I do something, no matter how small, every day.
 
-<a href="https://streak-stats.demolab.com/?user=tizianocitro&theme=rising-sun&hide_border=true&border_radius=5&card_width=800" target="_blank">
+<!-- <a href="https://streak-stats.demolab.com/?user=tizianocitro&theme=rising-sun&hide_border=true&border_radius=5&card_width=800" target="_blank">
   <img src="https://streak-stats.demolab.com/?user=tizianocitro&theme=rising-sun&hide_border=true&border_radius=5&card_width=800" alt="GitHub Streak"/>
-</a>
+</a> -->
 
 <div id="badges">
   <span align="left">
     <a href="https://www.linkedin.com/in/tizianocitro" style="margin-right: 5px;">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <!-- <a href="#" style="margin-right: 5px;">
+    <a href="https://scholar.google.com/citations?user=kdA9VxUAAAAJ" style="margin-right: 5px;">
       <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar Badge"/>
-    </a> -->
+    </a>
     <!--
     <a href="https://twitter.com/tizianocitro29" style="margin-right: 5px;">
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
