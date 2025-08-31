@@ -58,7 +58,7 @@ Tools, languages, and other things that I work with or like to use.
 
 <div align="center">
     <img
-      src="https://img.shields.io/badge/Amazon Web Services-%23FF9900.svg?style=for-the-badge&logo=aws&logoColor=white"
+      src="https://img.shields.io/badge/Amazon Web Services-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"
       alt="Amazon Web Services"
     />
     <img
@@ -71,6 +71,10 @@ Tools, languages, and other things that I work with or like to use.
     <img
       src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"
       alt="Java"
+    />
+    <img
+      src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white"
+      alt="Kotlin"
     />
     <img
       src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"
@@ -89,8 +93,8 @@ Tools, languages, and other things that I work with or like to use.
       alt="JavaScript"
     />
     <img
-      src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"
-      alt="Shell Script"
+      src="https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"
+      alt="Bash"
     />
 </div>
 
@@ -99,10 +103,10 @@ Tools, languages, and other things that I work with or like to use.
       src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"
       alt="Spring"
     />
-    <img
+    <!-- <img
       src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"
       alt="NodeJS"
-    />
+    /> -->
     <img
       src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white"
       alt="PyTorch"
