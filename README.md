@@ -25,7 +25,7 @@ My main interests span **Cloud Computing**, **Distributed Systems**, **Backend E
 
 - :office: &nbsp;I'm a **Software Engineer** and a **PhD student** at **Università degli Studi di Salerno**.
 - :point_right: &nbsp;My research focuses on **Large Language Models** and **Deep Learning** (e.g., Graph/Hypergraph Neural Networks) and their **application in enhancing Online Collaboration**.
-- :notebook_with_decorative_cover: &nbsp;I’m studying for the **AWS Certified Developer Associate** certification.
+- :notebook_with_decorative_cover: &nbsp;I'm studying for the **AWS Certified Developer Associate** certification.
 - :speech_balloon: &nbsp;I like to talk about **Cloud Computing**, **Distributed Systems**, **Go**, **Java**, **Docker**, and **Kubernetes**.
 - :envelope: &nbsp;Connect with me on **[LinkedIn]**.
 
@@ -80,10 +80,6 @@ Tools, languages, and other things that I work with or like to use.
       src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"
       alt="Spring"
     />
-    <!-- <img
-      src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"
-      alt="NodeJS"
-    /> -->
     <img
       src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white"
       alt="PyTorch"
@@ -92,12 +88,6 @@ Tools, languages, and other things that I work with or like to use.
       src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"
       alt="scikit-learn"
     />
-    <!--
-    <img
-      src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"
-      alt="Express.js"
-    />
-    -->
     <img
       src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"
       alt="React"
@@ -117,12 +107,6 @@ Tools, languages, and other things that I work with or like to use.
       src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white"
       alt="Kubernetes"
     />
-    <!--
-    <img
-      src="https://img.shields.io/badge/helm-4B3263.svg?style=for-the-badge&logo=helm&logoColor=white"
-      alt="Helm"
-    />
-    -->
     <img
       src="https://img.shields.io/badge/rancher-%230075A8.svg?style=for-the-badge&logo=rancher&logoColor=white"
       alt="Rancher"
@@ -135,12 +119,6 @@ Tools, languages, and other things that I work with or like to use.
       src="https://img.shields.io/badge/harbor-%231A1918.svg?style=for-the-badge&logo=harbor&logoColor=white"
       alt="Harbor"
     />
-    <!--
-    <img
-      src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white"
-      alt="Terraform"
-    />
-    -->
 </div>
 
 <div align="center">
